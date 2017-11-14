@@ -1,6 +1,6 @@
 # srgan_octImages
 
-=====================
+
 Single Image Super-resolution (Applications in OCT Images)   
 ---------------------
 	1. g_srgan.npz: Weight parameters trained by DIV2K datasets  
